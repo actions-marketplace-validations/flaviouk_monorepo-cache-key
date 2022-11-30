@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "^16.10.5",
-    "@types/md5": "2.3.1",
+    "@types/md5": "2.3.2",
     "@vercel/ncc": "^0.31.1",
     "js-yaml": "^4.1.0",
     "standard-monorepo": "0.6.1",
